@@ -1,5 +1,6 @@
 import Panda from './Panda';
 
+
 class RedPanda extends Panda {
     constructor(name, age=Panda.getDefaultAge()) {
         super(name, age);

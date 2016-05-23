@@ -1,6 +1,7 @@
 import Panda from './Panda';
 import RedPanda from './RedPanda';
 
+
 let pandaJohn = new Panda('John');
 console.log(pandaJohn);
 pandaJohn.eat();
